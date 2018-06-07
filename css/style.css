@@ -25,6 +25,14 @@ p {
   padding-top: 10px;
   padding-left: 20px;
 }
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration:underline;
+}
+
 figcaption {
   font-family: 'Archer';
   font-size: 0.8em;
